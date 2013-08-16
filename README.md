@@ -8,16 +8,16 @@ Currently the game is endless and has no levels or score nor any other challenge
 
 System requrements
 ------------------
-* Windows (precompiled binary exists for Win32) or Linux (build yourself);
-* 128 Mb of memory;
-* Any graphics card that supports OpenGL 1.1 or higher. 
+ * Windows (precompiled binary exists for Win32) or Linux (build yourself);
+ * 128 Mb of memory;
+ * Any graphics card that supports OpenGL 1.1 or higher. 
 
 Arrow should run on virtually any hardware, even on very outdated machines.
 
 Controls
 --------
-Left/Right = move active piece left or right;
-Down = drop active piece;
-Spacebar = rotate active piece;
-Enter = pause the game;
-Escape = exit the game.
+ * Left/Right = move active piece left or right;
+ * Down = drop active piece;
+ * Spacebar = rotate active piece;
+ * Enter = pause the game;
+ * Escape = exit the game.
